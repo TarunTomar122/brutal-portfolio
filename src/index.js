@@ -4,8 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// import SoundBar from './components/SoundBar';
+
 ReactDOM.render(
   <React.StrictMode>
+    {/* <SoundBar /> */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
